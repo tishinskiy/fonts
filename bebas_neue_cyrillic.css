@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'bebas_neue_cyrillic';
+	src: url('../fonts/bebas_neue_cyrillic.eot');
+	src: url('../fonts/bebas_neue_cyrillic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/bebas_neue_cyrillic.woff') format('woff'),
+		 url('../fonts/bebas_neue_cyrillic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}

@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'annabelle';
+	src: url('../fonts/annabella.eot');
+	src: url('../fonts/annabella.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/annabella.woff') format('woff'),
+		 url('../fonts/annabella.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

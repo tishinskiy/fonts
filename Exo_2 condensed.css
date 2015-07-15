@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'exo_2condensed';
+	src: url('../fonts/exo2-mediumcondensed.eot');
+	src: url('../fonts/exo2-mediumcondensed.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/exo2-mediumcondensed.woff') format('woff'),
+		 url('../fonts/exo2-mediumcondensed.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exo_2condensed';
+	src: url('../fonts/exo2-thincondensed.eot');
+	src: url('../fonts/exo2-thincondensed.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/exo2-thincondensed.woff') format('woff'),
+		 url('../fonts/exo2-thincondensed.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exo_2condensed';
+	src: url('../fonts/exo2-extralightcondensed.eot');
+	src: url('../fonts/exo2-extralightcondensed.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/exo2-extralightcondensed.woff') format('woff'),
+		 url('../fonts/exo2-extralightcondensed.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'exo_2condensed';
+	src: url('../fonts/Exo_2_Light_Condensed.eot');
+	src: url('../fonts/Exo_2_Light_Condensed.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Exo_2_Light_Condensed.woff') format('woff'),
+		 url('../fonts/Exo_2_Light_Condensed.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}

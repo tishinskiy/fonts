@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'exo_2expanded';
+	src: url('../fonts/exo2-lightexpanded.eot');
+	src: url('../fonts/exo2-lightexpanded.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/exo2-lightexpanded.woff') format('woff'),
+		 url('../fonts/exo2-lightexpanded.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}

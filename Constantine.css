@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'constantine';
+	src: url('../fonts/constantine.eot');
+	src: url('../fonts/constantine.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/constantine.woff') format('woff'),
+		 url('../fonts/constantine.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'constantine';
+	src: url('../fonts/constantine_bold.eot');
+	src: url('../fonts/constantine_bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/constantine_bold.woff') format('woff'),
+		 url('../fonts/constantine_bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
