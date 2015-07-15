@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'squares';
+	src: url('../fonts/squares_bold_free.eot');
+	src: url('../fonts/squares_bold_free.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/squares_bold_free.woff') format('woff'),
+		 url('../fonts/squares_bold_free.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}

@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'clio_c';
+	src: url('../fonts/letype_-_cliocregular.eot');
+	src: url('../fonts/letype_-_cliocregular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/letype_-_cliocregular.woff') format('woff'),
+		 url('../fonts/letype_-_cliocregular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}
