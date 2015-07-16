@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'FuturisCyrillic';
+	src: url('../fonts/FuturisCyrillic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/FuturisCyrillic.woff') format('woff'),
+		 url('../fonts/FuturisCyrillic.ttf')  format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
