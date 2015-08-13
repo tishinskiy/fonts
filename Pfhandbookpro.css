@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'pf_handbook_pro';
+	src: url('../fonts/pfhandbookpro-regular.eot');
+	src: url('../fonts/pfhandbookpro-regular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/pfhandbookpro-regular.woff') format('woff'),
+		 url('../fonts/pfhandbookpro-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'pf_handbook_pro';
+	src: url('../fonts/pfhandbookpro-bold.eot');
+	src: url('../fonts/pfhandbookpro-bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/pfhandbookpro-bold.woff') format('woff'),
+		 url('../fonts/pfhandbookpro-bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}

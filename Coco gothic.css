@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'coco_gothic';
+	src: url('../fonts/coco_gothic_light-trial.eot');
+	src: url('../fonts/coco_gothic_light-trial.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/coco_gothic_light-trial.woff') format('woff'),
+		 url('../fonts/coco_gothic_light-trial.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'coco_gothic';
+	src: url('../fonts/coco_gothic_regular-trial.eot');
+	src: url('../fonts/coco_gothic_regular-trial.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/coco_gothic_regular-trial.woff') format('woff'),
+		 url('../fonts/coco_gothic_regular-trial.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

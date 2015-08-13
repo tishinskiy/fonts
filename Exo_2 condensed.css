@@ -57,3 +57,13 @@
 	font-weight: 300;
 	font-style: normal;
 }
+
+@font-face {
+	font-family: 'exo_2condensed';
+	src: url('../fonts/exo2-semiboldcondensed.eot');
+	src: url('../fonts/exo2-semiboldcondensed.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/exo2-semiboldcondensed.woff') format('woff'),
+		 url('../fonts/exo2-semiboldcondensed.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}

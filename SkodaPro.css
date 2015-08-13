@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'skoda_pro';
+	src: url('../fonts/skodapro_regular.eot');
+	src: url('../fonts/skodapro_regular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/skodapro_regular.woff') format('woff'),
+		 url('../fonts/skodapro_regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'skoda_pro';
+	src: url('../fonts/skodapro_bold.eot');
+	src: url('../fonts/skodapro_bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/skodapro_bold.woff') format('woff'),
+		 url('../fonts/skodapro_bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}

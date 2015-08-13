@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'good_vibes_pro';
+	src: url('../fonts/goodvibescyr.eot');
+	src: url('../fonts/goodvibescyr.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/goodvibescyr.woff') format('woff'),
+		 url('../fonts/goodvibescyr.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}

@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'drugs';
+	src: url('../fonts/drugs.eot');
+	src: url('../fonts/drugs.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/drugs.woff') format('woff'),
+		 url('../fonts/drugs.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}

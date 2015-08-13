@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'diaria_pro';
+	src: url('../fonts/mint_type_-_diaria_pro_medium_italic.eot');
+	src: url('../fonts/mint_type_-_diaria_pro_medium_italic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/mint_type_-_diaria_pro_medium_italic.woff') format('woff'),
+		 url('../fonts/mint_type_-_diaria_pro_medium_italic.ttf') format('truetype');
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'diaria_pro';
+	src: url('../fonts/mint_type_-_diaria_pro_medium.eot');
+	src: url('../fonts/mint_type_-_diaria_pro_medium.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/mint_type_-_diaria_pro_medium.woff') format('woff'),
+		 url('../fonts/mint_type_-_diaria_pro_medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
