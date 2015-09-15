@@ -8,3 +8,13 @@
 	font-style: normal;
 
 }
+
+@font-face {
+	font-family: 'clio_c';
+	src: url('../fonts/letype_-_cliocmedium-medium.eot');
+	src: url('../fonts/letype_-_cliocmedium-medium.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/letype_-_cliocmedium-medium.woff') format('woff'),
+		 url('../fonts/letype_-_cliocmedium-medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
