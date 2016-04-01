@@ -1,0 +1,87 @@
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscond_0.eot');
+	src: url('../fonts/helioscond_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscond_0.woff2') format('woff2'),
+		 url('../fonts/helioscond_0.woff') format('woff'),
+		 url('../fonts/helioscond_0.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondblack_0.eot');
+	src: url('../fonts/helioscondblack_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondblack_0.woff2') format('woff2'),
+		 url('../fonts/helioscondblack_0.woff') format('woff'),
+		 url('../fonts/helioscondblack_0.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondblack-italic_0.eot');
+	src: url('../fonts/helioscondblack-italic_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondblack-italic_0.woff2') format('woff2'),
+		 url('../fonts/helioscondblack-italic_0.woff') format('woff'),
+		 url('../fonts/helioscondblack-italic_0.ttf') format('truetype');
+	font-weight: 800;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscond-bold-italic_0.eot');
+	src: url('../fonts/helioscond-bold-italic_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscond-bold-italic_0.woff2') format('woff2'),
+		 url('../fonts/helioscond-bold-italic_0.woff') format('woff'),
+		 url('../fonts/helioscond-bold-italic_0.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondlight_0.eot');
+	src: url('../fonts/helioscondlight_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondlight_0.woff2') format('woff2'),
+		 url('../fonts/helioscondlight_0.woff') format('woff'),
+		 url('../fonts/helioscondlight_0.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondlight-italic_0.eot');
+	src: url('../fonts/helioscondlight-italic_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondlight-italic_0.woff2') format('woff2'),
+		 url('../fonts/helioscondlight-italic_0.woff') format('woff'),
+		 url('../fonts/helioscondlight-italic_0.ttf') format('truetype');
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondthin_0.eot');
+	src: url('../fonts/helioscondthin_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondthin_0.woff2') format('woff2'),
+		 url('../fonts/helioscondthin_0.woff') format('woff'),
+		 url('../fonts/helioscondthin_0.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'helioscond';
+	src: url('../fonts/helioscondthin-italic_0.eot');
+	src: url('../fonts/helioscondthin-italic_0.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/helioscondthin-italic_0.woff2') format('woff2'),
+		 url('../fonts/helioscondthin-italic_0.woff') format('woff'),
+		 url('../fonts/helioscondthin-italic_0.ttf') format('truetype');
+	font-weight: 100;
+	font-style: italic;
+}
