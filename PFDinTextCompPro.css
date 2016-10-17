@@ -1,9 +1,204 @@
 @font-face {
-	font-family: 'pf_din_text_comp_pro';
-	src: url('../fonts/pfdintextcondpro-regular-webfont.eot');
-	src: url('../fonts/pfdintextcondpro-regular-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('../fonts/pfdintextcondpro-regular-webfont.woff') format('woff'),
-		 url('../fonts/pfdintextcondpro-regular-webfont.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-bold.eot');
+    src: url('../fonts/pfdintextcomppro-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-bold.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-bold.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-boldital.eot');
+    src: url('../fonts/pfdintextcomppro-boldital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-boldital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-boldital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-boldital.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-italic.eot');
+    src: url('../fonts/pfdintextcomppro-italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-italic.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-italic.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-light.eot');
+    src: url('../fonts/pfdintextcomppro-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-light.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-light.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-lightital.eot');
+    src: url('../fonts/pfdintextcomppro-lightital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-lightital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-lightital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-lightital.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-medital.eot');
+    src: url('../fonts/pfdintextcomppro-medital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-medital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-medital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-medital.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-medium.eot');
+    src: url('../fonts/pfdintextcomppro-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-medium.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-medium.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-regular.eot');
+    src: url('../fonts/pfdintextcomppro-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-regular.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-regular.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-thin.eot');
+    src: url('../fonts/pfdintextcomppro-thin.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-thin.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-thin.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-thin.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-thinital.eot');
+    src: url('../fonts/pfdintextcomppro-thinital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-thinital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-thinital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-thinital.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-xblack.eot');
+    src: url('../fonts/pfdintextcomppro-xblack.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-xblack.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-xblack.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-xblack.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-xblackital.eot');
+    src: url('../fonts/pfdintextcomppro-xblackital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-xblackital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-xblackital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-xblackital.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-xthin.eot');
+    src: url('../fonts/pfdintextcomppro-xthin.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-xthin.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-xthin.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-xthin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'pf_din_text_comp_pro';
+    src: url('../fonts/pfdintextcomppro-xthinital.eot');
+    src: url('../fonts/pfdintextcomppro-xthinital.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/pfdintextcomppro-xthinital.woff2') format('woff2'),
+         url('../fonts/pfdintextcomppro-xthinital.woff') format('woff'),
+         url('../fonts/pfdintextcomppro-xthinital.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+
 }

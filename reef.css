@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'reefbold';
+	src: url('../fonts/reef.eot');
+	src: url('../fonts/reef.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/reef.woff2') format('woff2'),
+		 url('../fonts/reef.woff') format('woff'),
+		 url('../fonts/reef.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

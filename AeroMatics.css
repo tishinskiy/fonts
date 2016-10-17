@@ -1,0 +1,10 @@
+
+@font-face {
+	font-family: 'AeroMaticsBold';
+	src: url('../fonts/AeroMaticsBold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AeroMaticsBold.woff') format('woff'), 
+		 url('../fonts/AeroMaticsBold.ttf')  format('truetype'), 
+		 url('../fonts/AeroMaticsBold.svg#AeroMaticsBold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}

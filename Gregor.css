@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'gregor';
+	src: url('../fonts/gregor_reg_v20-06-2013.eot');
+	src: url('../fonts/gregor_reg_v20-06-2013.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/gregor_reg_v20-06-2013.woff2') format('woff2'),
+		 url('../fonts/gregor_reg_v20-06-2013.woff') format('woff'),
+		 url('../fonts/gregor_reg_v20-06-2013.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+
+}

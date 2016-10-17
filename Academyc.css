@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'academyc';
+	src: url('../fonts/academyc.eot');
+	src: url('../fonts/academyc.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/academyc.woff2') format('woff2'),
+		 url('../fonts/academyc.woff') format('woff'),
+		 url('../fonts/academyc.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

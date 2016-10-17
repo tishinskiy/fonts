@@ -18,3 +18,16 @@
 	font-weight: 500;
 	font-style: normal;
 }
+
+
+@font-face {
+	font-family: 'clio_c';
+	src: url('letype_-_cliocbold-bold.eot');
+	src: url('letype_-_cliocbold-bold.eot?#iefix') format('embedded-opentype'),
+		 url('letype_-_cliocbold-bold.woff2') format('woff2'),
+		 url('letype_-_cliocbold-bold.woff') format('woff'),
+		 url('letype_-_cliocbold-bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+
+}
