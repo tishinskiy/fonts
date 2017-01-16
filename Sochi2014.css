@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Sochi2014';
+	src: url('../fonts/Sochi2014-Light.eot');
+	src: url('../fonts/Sochi2014-Light.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Sochi2014-Light.woff') format('woff'),
+		 url('../fonts/Sochi2014-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
