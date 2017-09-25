@@ -1,0 +1,10 @@
+
+@font-face {
+	font-family: 'Skoda Pro';
+	src: url('../fonts/SkodaPro-Medium.eot');
+	src: url('../fonts/SkodaPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/SkodaPro-Medium.woff') format('woff'),
+		url('../fonts/SkodaPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}

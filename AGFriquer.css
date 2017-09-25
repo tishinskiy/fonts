@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'AGFriquer';
+	src: url('../fonts/AGFriquer-Roman.eot');
+	src: url('../fonts/AGFriquer-Roman.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AGFriquer-Roman.woff') format('woff'),
+		 url('../fonts/AGFriquer-Roman.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AGFriquer';
+	src: url('../fonts/AGFriquer-Bold.eot');
+	src: url('../fonts/AGFriquer-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/AGFriquer-Bold.woff') format('woff'),
+		 url('../fonts/AGFriquer-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}

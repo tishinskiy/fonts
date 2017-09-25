@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'GD Goodman';
+	src: url('../fonts/GDGoodman-Book.eot');
+	src: url('../fonts/GDGoodman-Book.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/GDGoodman-Book.woff') format('woff'),
+		 url('../fonts/GDGoodman-Book.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
